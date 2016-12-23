@@ -1,0 +1,1 @@
+to je razred za permutacije 
