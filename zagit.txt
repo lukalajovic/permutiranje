@@ -1,0 +1,12 @@
+zapomn si da morš tole na git napisat
+echo "# j" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lukalajovic/j.git
+git push -u origin master
+
+ampak u bistvu morš vse to sam ta prviè, sicer je dost da tole
+git add README.md
+git commit -m "first commit"
+git push -u origin master
